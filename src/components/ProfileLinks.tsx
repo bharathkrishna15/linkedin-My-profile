@@ -34,7 +34,7 @@ const ProfileLinks: React.FC = () => {
       <ProfileLink 
         icon={<Briefcase size={20} className="text-orange-500" />} 
         text="Portfolio Page"
-        href="https://mydetails.vercel.app/"
+        href="https://bharath2026.vercel.app/"
       />
       <ProfileLink 
         icon={<Linkedin size={20} className="text-[#0A66C2]" />} 
